@@ -1,0 +1,4 @@
+include ':aboutactivity'
+include ':socketchat'
+include ':app'
+rootProject.name = "AndroidStudy"

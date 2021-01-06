@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/database_add_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADD" />
+
+    <Button
+        android:id="@+id/database_delete_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DELETE" />
+
+    <Button
+        android:id="@+id/database_update_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UPDATE" />
+    <Button
+        android:id="@+id/database_transactions_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="利用事务添加1000条数据" />
+</LinearLayout>

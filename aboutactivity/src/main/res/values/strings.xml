@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AboutActivity</string>
+    <string name="button1_txt">按钮1</string>
+    <string name="button2_txt">按钮2</string>
+    <string name="list_view_demo_activity">跳转到ListViewDemoActivity</string>
+    <string name="phone_text">电话本</string>
+    <string name="age">4岁</string>
+    <string name="grid_view_button">grid_view_button</string>
+    <string name="list_view_button">list_view_button</string>
+    <string name="buttontext">我是来自于scrollview的button</string>
+    <string name="test_draw_view_button">test_draw_view_button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_button">fragment_button</string>
+    <string name="handler_button">handler_button</string>
+    <string name="handler_button_text">handler_button_text</string>
+    <string name="music_button_service">music_button_service</string>
+    <string name="start_music_button">start_music_button</string>
+    <string name="stop_music_button">stop_music_button</string>
+    <string name="get_music_progress_button">get_music_progress_button</string>
+    <string name="broadcast_button">broadcast_button</string>
+    <string name="webview_button">webview_button</string>
+    <string name="create_list">create_list</string>
+    <string name="datacounts">条数:</string>
+    <string name="create_list_button_hint">请输入数字</string>
+    <string name="database_button">database_button</string>
+    <string name="network_button">network_button</string>
+    <string name="thread_button">thread_button</string>
+    <string name="download">download</string>
+    <string name="aidl_button">aidl_button</string>
+    <string name="sensor_button">sensor_button</string>
+</resources>
